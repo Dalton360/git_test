@@ -1,2 +1,3 @@
 # git_test
-Note: For Odin Project assignment
+Note: For the Odin Project assignment
+Hello Odin!
